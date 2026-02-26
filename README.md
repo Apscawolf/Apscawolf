@@ -10,8 +10,5 @@
 - **[MateZone](https://github.com/Joshua-Hermilly/docker-sae203)** - Plateforme web conteneurisée pour la gestion collaborative du projet MateZone. L’application est déployée via Docker et intègre des composants front-end en JavaScript, HTML5 et CSS3. Technologies : ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - **[JAVA UML](https://github.com/Apscawolf/S3-01-Outil-retro-conception-Java-UML)** - Application Java de rétro-ingénierie UML à partir de code source. Elle génère automatiquement des diagrammes de classes UML pour faciliter l’analyse du logiciel. Technologies : ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apscawolf&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apscawolf&layout=compact)
-
 ## Contact
 - Email : [lucas2006.lafosse@gmail.com](mailto:lucas2006.lafosse@gmail.com)
