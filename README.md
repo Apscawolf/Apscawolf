@@ -1,16 +1,17 @@
-## Hi there 👋
+# Apscawolf
+Étudiant en 2e année de BUT Informatique, passionné par la programmation et les projets techniques.
 
-<!--
-**Apscawolf/Apscawolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Compétences
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL / PLpgSQL](https://img.shields.io/badge/SQL%20%2F%20PLpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Here are some ideas to get you started:
+## 🧠 Projets
+- **[IUT CodeFormateur](https://github.com/Apscawolf/IUT_CodeFormateur)** - Application web développée pour la gestion et le partage d’exercices de programmation destinés aux étudiants. Le projet utilise principalement PHP, HTML5, CSS3 et SQL pour le backend. Technologies : ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL / PLpgSQL](https://img.shields.io/badge/SQL%20%2F%20PLpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- **[GRAPH MPM](https://github.com/Apscawolf/sae201)** - Projet académique implémentant des algorithmes de graphe, notamment le calcul du flot maximum pour un réseau orienté. Il inclut une interface graphique de visualisation développée en Java. Technologies : ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **[MateZone](https://github.com/Joshua-Hermilly/docker-sae203)** - Plateforme web conteneurisée pour la gestion collaborative du projet MateZone. L’application est déployée via Docker et intègre des composants front-end en JavaScript, HTML5 et CSS3. Technologies : ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **[JAVA UML](https://github.com/Apscawolf/S3-01-Outil-retro-conception-Java-UML)** - Application Java de rétro-ingénierie UML à partir de code source. Elle génère automatiquement des diagrammes de classes UML pour faciliter l’analyse du logiciel. Technologies : ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistiques GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apscawolf&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apscawolf&layout=compact)
+
+## Contact
+- Email : [lucas2006.lafosse@gmail.com](mailto:lucas2006.lafosse@gmail.com)
